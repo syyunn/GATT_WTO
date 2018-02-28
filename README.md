@@ -34,6 +34,8 @@ check : https://github.com/syyunn/GATT_WTO_crawler
 
 automatically retrieves any relevant part from the given panel report. For instance, if an user queries "I want factual relationship on Korea-Beef Case" then the parser retreives the part exactly
 
+check : https://github.com/syyunn/GATT_WTO_Parser
+
 #### 3. GATT_WTO Panel Report generation
        
   automatically generates panel report based on given factual aspect. the system doesn't require you to parse it or to manually design any features. Just type-in the Facutal Aspect into the system. Then the system will generates panel report based on its own artificial legal discretion.
