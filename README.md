@@ -12,7 +12,7 @@
 
 ## What is World Trade Organization?
 
-##### WTO, formely known as GATT till 1995, is an international organiztion that supports the global level of free trade.
+##### WTO, formely known as GATT, is an international organiztion that supports the global level of free trade.
 
 
 ## What is panel report?
@@ -46,6 +46,6 @@ automatically retrieves any relevant part from the given panel report. For insta
 
 ##### First, I know WTO rulings. 
 
-##### Secon, WTO rulings are compact. Its main citation of Articles are limited to GATT Article I, III, XI and XX only.
+##### Second, WTO rulings are compact. Its main citation of Articles are limited to GATT Article I, III, XI and XX only.
 
-##### Third, WTO rulings are the "case law". It means that its legal disseratations are higly conditional, repetitive and relying on  the past cases and legal logics.
+##### Third, WTO rulings are "case law". It means that its legal disseratations are higly conditional, repetitive and relying on  the past cases and legal logics.
