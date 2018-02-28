@@ -1,7 +1,6 @@
 
 # Auto-generation of GATT_WTO panel report
 
-------
 
 #### Simple Introduction with just 3 Questions
 
