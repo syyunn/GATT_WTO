@@ -2,19 +2,20 @@
 # Auto-generation of GATT_WTO panel report
 
 
+
 #### Simple Introduction with just 3 Questions
 
-##  - What is this repository for?
+## What is this repository for?
 
-###### This repository is designed to develope integrated system for auto-generation of GATT_WTO panel report.
+###### This repository is to develope integrated system for auto-generation of GATT_WTO panel report.
 
 
-## - What is World Trade Organization?
+## What is World Trade Organization?
 
 ##### WTO, formely known as GATT till 1995, is an international organiztion that supports the global level of free trade.
 
 
-## - What is panel report?
+## What is panel report?
 
 ##### WTO has its own rulings based on its law, the WTO agreement. We call this ruling WTO panel report.
 
