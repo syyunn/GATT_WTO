@@ -7,7 +7,7 @@
 
 ### What is this repository for?
 
-##### This repository is to develope integrated system for auto-generation of GATT_WTO panel report.
+> ##### This repository is to develope integrated system for auto-generation of GATT_WTO panel report.
 
 
 ### What is World Trade Organization?
